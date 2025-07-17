@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+
+
+}
+
+body {
+    background-color: #1f2937;
+}
